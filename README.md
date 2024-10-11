@@ -48,7 +48,3 @@ The outcome of this project will demonstrate our proficiency in implementing alg
 
 ### License
 This project is licensed under the MIT License.
-
----
-
-This README provides a concise overview, strategy breakdown, and technical details based on your proposal. Let me know if you'd like to expand or add specific details!
